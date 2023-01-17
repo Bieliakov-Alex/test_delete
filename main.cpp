@@ -5,5 +5,7 @@ int main() {
 
 	std::cout << "New line\n";
 
+	std::cout << "Another line\n";
+
 	return 0;
 }
