@@ -7,5 +7,7 @@ int main() {
 
 	std::cout << "Another line\n";
 
+	std::cout << "Third line\n";
+
 	return 0;
 }
